@@ -1,0 +1,21 @@
+Numero de consonantes = 48
+-----------------------------------------------------------------
+Numero de vocales = 87
+Hay 97,70% de a
+Hay 2,30% de e
+Hay 0,00% de i
+Hay 0,00% de o
+Hay 0,00% de u
+-----------------------------------------------------------------
+Hay 4 lineas
+Hay 0 lineas en blanco
+Hay 4 numeros
+-----------------------------------------------------------------
+
+El texto cambiado es:
+1275VSZ HES TFXTJXF
+ HSZEDNGMNVBJ M
+  SRJMN FRJX R FHXM, TDKMX,GJD,LD
+  A A A AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+-----------------------------------------------------------------

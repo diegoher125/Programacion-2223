@@ -1,0 +1,31 @@
+Numero de consonantes = 35
+-----------------------------------------------------------------
+Numero de vocales = 27
+Hay 25,93% de a
+Hay 18,52% de e
+Hay 14,81% de i
+Hay 29,63% de o
+Hay 11,11% de u
+-----------------------------------------------------------------
+Hay 14 lineas
+Hay 2 lineas en blanco
+Hay 5 numeros
+-----------------------------------------------------------------
+
+El texto cambiado es:
+bUENOS DIAS CLASE DE
+pROGRAMACION
+sOY ADRIAN, VUESTRO PROFE FAVORITO
+
+1
+3
+s
+
+3
+u
+r
+0
+p
+4
+
+-----------------------------------------------------------------
